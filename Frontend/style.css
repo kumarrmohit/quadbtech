@@ -1,0 +1,14 @@
+
+    #nav img{
+  width: 300px;;
+}
+#nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    padding: 10px 20px 10px 20px;
+    color: aqua;
+}
+#nav button{
+    background-color: aqua;
+}
